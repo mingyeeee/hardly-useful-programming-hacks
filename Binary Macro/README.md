@@ -2,7 +2,7 @@
 ## Problem
 I have a course called digital systems which involves creating many truth tables. Hence I need to type hundreds of 1s and 0s. This wouldn't be an issue if the 1 and 0 keys where next to each other on the keyboard, but those keys are on either end of the keyboard!
 
-Typing 1s and 0s with one hand is far too inefficient to my liking.
+Typing 1s and 0s with one hand on my standard keyboard is far too inefficient to my liking.
 
 ## Over-engineered solution
 To reduce the amount of distance I need to move my hand across the keyboard, I have created a SINGLE button to type 1s and 0s.
