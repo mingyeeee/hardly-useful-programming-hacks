@@ -10,7 +10,7 @@ Single click for 0, double click for 1. No more need to move my hand across the 
 
 Uses 2 wires, arduino pro micro, and a button. 
 
-## Unecessarily analysis
+## Unnecessarily analysis
 Work = Force * Distance
 Assuming the hand weighs 1Kg, the distance between the 1 and 0 key is 17cm, and the time to move the hand from 1 to 0 is 0.5s
 then the work done is ~ 57.8mJ
