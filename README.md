@@ -5,6 +5,7 @@ For fun and to fix the tinyiest of issues while I work on my more serious projec
 
 # Contents
 - Binary Macro 
+- Slide Shotter
 
 # Coming soon to this github repo near you
 - Anti-Smart Smart Device
